@@ -1,0 +1,15 @@
+C:\Users\Ольга\source\repos\lab 4 PiOGI\lab 4 PiOGI\obj\Debug\lab 4 PiOGI.csprojAssemblyReference.cache
+C:\Users\Ольга\source\repos\lab 4 PiOGI\lab 4 PiOGI\obj\Debug\MainWindow.g.cs
+C:\Users\Ольга\source\repos\lab 4 PiOGI\lab 4 PiOGI\obj\Debug\App.g.cs
+C:\Users\Ольга\source\repos\lab 4 PiOGI\lab 4 PiOGI\obj\Debug\lab 4 PiOGI_MarkupCompile.cache
+C:\Users\Ольга\source\repos\lab 4 PiOGI\lab 4 PiOGI\obj\Debug\lab 4 PiOGI_MarkupCompile.lref
+C:\Users\Ольга\source\repos\lab 4 PiOGI\lab 4 PiOGI\bin\Debug\lab 4 PiOGI.exe.config
+C:\Users\Ольга\source\repos\lab 4 PiOGI\lab 4 PiOGI\bin\Debug\lab 4 PiOGI.exe
+C:\Users\Ольга\source\repos\lab 4 PiOGI\lab 4 PiOGI\bin\Debug\lab 4 PiOGI.pdb
+C:\Users\Ольга\source\repos\lab 4 PiOGI\lab 4 PiOGI\obj\Debug\MainWindow.baml
+C:\Users\Ольга\source\repos\lab 4 PiOGI\lab 4 PiOGI\obj\Debug\lab 4 PiOGI.g.resources
+C:\Users\Ольга\source\repos\lab 4 PiOGI\lab 4 PiOGI\obj\Debug\lab_4_PiOGI.Properties.Resources.resources
+C:\Users\Ольга\source\repos\lab 4 PiOGI\lab 4 PiOGI\obj\Debug\lab 4 PiOGI.csproj.GenerateResource.cache
+C:\Users\Ольга\source\repos\lab 4 PiOGI\lab 4 PiOGI\obj\Debug\lab 4 PiOGI.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\source\repos\lab 4 PiOGI\lab 4 PiOGI\obj\Debug\lab 4 PiOGI.exe
+C:\Users\Ольга\source\repos\lab 4 PiOGI\lab 4 PiOGI\obj\Debug\lab 4 PiOGI.pdb
